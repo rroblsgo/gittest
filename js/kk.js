@@ -1,0 +1,1 @@
+import reveal from('./reveal');
